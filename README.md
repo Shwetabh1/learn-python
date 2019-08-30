@@ -1,7 +1,7 @@
-<h1 align="center"> Learn-Python </h1>
+<h1 align="center"> Learn-Python [In-Progress] </h1>
 
 <div align="center">
-    <img src="https://github.com/Shwetabh1/Javascript-Essential-Parts/blob/master/Images/Essential_JS.png" alt="Essential JavaScript" width="400" height="360"/>
+    <img src="https://github.com/Shwetabh1/learn-python/blob/master/resources/python.png" alt="Essential JavaScript" width="200" height="200"/>
   <br>
 </div>
 
@@ -10,23 +10,22 @@
 > You can never understand everything but you should push yourself to understand the system.<br/>
 > *-Ryan Dahl (creator of Node.JS)*
 
-The above quote is what motivated me to create this repository. Through this  repository my aim is to learn, understand and then explain the must have concepts of Python in a simplified manner.
+The above quote is what motivated me to create this repository. This repo will act as my journal. My aim is to learn, understand and then explain the must have concepts of Python in a simplified manner.
 
-[In Progress]
 ## Table of Contents
-1. Theory : The theoretical aspects of python
-	1. what exactly is python?
+1. Theory : <i>(the theoretical aspects of Python)</i>
+    1. what exactly is python?
     1. python implementations
     1. syntax differences
-    1.
-    1.
+    1. PEP8 Style Guide
+    1. add more
 1. Code Snippets
+    1. control flow  
     1. 
     1.
     1.
-    1.
-1. Competitive Coding
-Attempting alreay attempted questions to have a good hands on.
+1. Competitive Coding <i> (converting my js solutions to python to have a good hands on.) </i>
+
 
 
 ## Ongoing

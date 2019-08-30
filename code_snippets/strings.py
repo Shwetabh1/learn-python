@@ -1,3 +1,8 @@
+import re
+#split works differently here. Instead of string use regex
+str = "hey"
+re.split("", str)
+
 course = "HEY"
 
 len(course) # get the length

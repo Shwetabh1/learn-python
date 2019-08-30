@@ -1,5 +1,5 @@
 """
-I will not be writing down codes for all these as I have used below readily while converting my js solutions to python.
+I will not be writing down codes for all these as I have used below things readily while converting my js solutions to python.
 You can find code samples for all these in competitive_coding_in_py
 1. if elif else 
 

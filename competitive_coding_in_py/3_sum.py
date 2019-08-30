@@ -1,5 +1,5 @@
 """
- * Find all pairs of 3 numbers whose sum is 0
+Find all pairs of 3 numbers whose sum is 0
 """
 arr1 = [1,1,1,1,1,1,1,1]
 arr2 = [1,0,-1,2,-2,3,4,5,6]

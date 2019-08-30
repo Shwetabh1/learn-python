@@ -18,12 +18,13 @@ The above quote is what motivated me to create this repository. This repo will a
     1. python implementations
     1. syntax differences
     1. PEP8 Style Guide
-    1. add more
-1. Code Snippets
+    1. ....ongoing.....
+1. Code Snippets: <i>(code snippets, library functions)</i>
     1. control flow  
-    1. 
-    1.
-    1.
+    1. dictionaries
+    1. lists
+    1. strings
+    1. ....ongoing ....
 1. Competitive Coding <i> (converting my js solutions to python to have a good hands on.) </i>
 
 

@@ -5,28 +5,22 @@
  * Implementation using Sorting
  * I have also uploaded another implementation using TreeSet. Do check it out.
 """
-import java.util.Arrays;
 
-public class NobleIntegerAnotherImplementation {
+def findNobleInteger(arr):
+	arr.sort()
+	siz = len(arr)
+	ans = False
 
-	public static void main(String[] args) {
-		int arr[] = {-1, -2, -3, 0, 0, 0,1 };
-		Arrays.sort(arr);
-		int siz = arr.length;
-		int i = 0;
-		boolean ans = false;
-		for (; i<siz; i++) {
-			if (i<siz-1 && arr[i] == arr[i+1])
-				continue;
-			if (arr[i] == siz-i-1) {
-				ans = true;
-				break;
-			}
-		}
-		if (ans || arr[siz-1] == 0) {
-			System.out.println(arr[i]);
-		} else {
-			System.out.println("Ain't No Answer");
-		}
-	}
-}
+	for i in range(siz):
+		if i < siz-1 and arr[i] == arr[i+1]:
+			continue
+		if arr[i] == siz-i-1:
+			ans = True
+			break
+	if ans or arr[siz-1] == 0:
+	   print(arr[i])
+	else:
+		print("Ain't No Answer")
+		
+findNobleInteger([-1, -2, -3, 0, 0, 0,1])
+findNobleInteger([1,2,3,4,5])

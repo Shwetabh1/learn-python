@@ -1,10 +1,10 @@
 course = "HEY"
 
-len(course)
+len(course) # get the length
 
 course[0]
 
-course[-1] # reverse
+course[-1] # reverse way 
 
 course[0:3] #doesn't include char at index 3
 
@@ -20,15 +20,13 @@ last = "Shekhar"
 
 full = f"{len(first) + last}"
 
+#the usual string functions
 course.upper()
 course.lower()
 course.title()
 course.strip() #lstrip #rstrip
 course.find("pro")
 course.replace("P", "-")
-
-in operator
-not operator
 
 #Mutabel Immutable in Python
 
@@ -47,3 +45,5 @@ print b
 # Foo
 
 # Observe that b hasn't changed, even though a has.
+
+# typecast using this str(i)

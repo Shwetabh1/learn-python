@@ -4,6 +4,7 @@ Find all pairs of 3 numbers whose sum is 0
 arr1 = [1,1,1,1,1,1,1,1]
 arr2 = [1,0,-1,2,-2,3,4,5,6]
 arr3 = [999,1000,-1000,0,-1,-998,1]
+arr4 = [1000, 200, 300, 400, -500, -300, -900]
 
 def find3Sum(array):
     array.sort()
@@ -25,3 +26,4 @@ def find3Sum(array):
 find3Sum(arr1)
 find3Sum(arr2)
 find3Sum(arr3)
+find3Sum(arr4)

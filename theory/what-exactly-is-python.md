@@ -20,3 +20,6 @@ jython -> java
 ironpython -> .net
 
 [to do] add notes here
+
+Nice Video Course Shit
+https://www.youtube.com/watch?v=f79MRyMsjrQ&t=4291s

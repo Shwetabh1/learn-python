@@ -29,3 +29,6 @@ def attach_greeting(n):
 
 f = attach_greeting('Hey: ')
 print(f('shwetabh'))
+
+
+for loop with step
